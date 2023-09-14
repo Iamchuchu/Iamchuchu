@@ -3,4 +3,4 @@
 ### SNS
 <a href="https://www.instagram.com/mr_chuchu_3_/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/csyy1212@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/csyy093009@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
